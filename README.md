@@ -6,7 +6,7 @@ Joseph Caltabiano
 
 Open a terminal and run the following from this directory (joseph-caltabiano-fullstack-test):
 ```
-clone
+clone git@github.com:jpcaltabiano/joseph-caltabiano-fullstack-test.git
 cd joseph-caltabiano-fullstack-test
 sudo docker build -t blast-test-image .
 sudo docker run -it -p 8000:8000 -p 1234:1234 blast-test-image

@@ -1,0 +1,7 @@
+django
+biopython
+celery
+redis
+djangorestframework
+django-cors-headers
+pandas
